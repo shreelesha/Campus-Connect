@@ -24,7 +24,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background: var(--panel);
+  background: aquamarine
   border-bottom: 1px solid var(--border);
   padding: 12px 20px;
 }
