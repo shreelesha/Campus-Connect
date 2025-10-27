@@ -106,3 +106,7 @@ body {
 .meta { color: var(--muted); font-size: 12px; margin-top: 6px; }
 .success { color: var(--accent-2); }
 .error { color: var(--danger); }
+.a hover{
+  text-decoration: underline;
+  color: white;
+}

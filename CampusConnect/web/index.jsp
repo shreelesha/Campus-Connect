@@ -12,6 +12,7 @@
 <%@ include file="partials/header.jsp" %>
 <main class="container">
   <div class="card">
+    <marquee><h1>Students Platform</h1></marquee>
     <h2>Welcome to CampusConnect</h2>
     <p>Secure campus communication and announcements for students, faculty, and administrators.</p>
     <div style="margin-top: 16px">
